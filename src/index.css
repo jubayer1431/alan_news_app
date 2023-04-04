@@ -1,0 +1,25 @@
+#root,
+html,
+body {
+	height: 100vh;
+}
+
+body {
+	margin: 0;
+	background-image: radial-gradient(
+		circle,
+		#040505,
+		#0d1d1f,
+		#092f38,
+		#004256,
+		#045476
+	);
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
